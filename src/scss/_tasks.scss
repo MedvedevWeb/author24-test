@@ -1,0 +1,11 @@
+.tasks {
+  &_prologue {
+    margin: 0 0 20px;
+    font-size: 2rem;
+    color: $cl-black;
+  }
+
+  &_content {
+    padding: 30px 0 50px;
+  }
+}

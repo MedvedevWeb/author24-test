@@ -1,0 +1,14 @@
+.block3 {
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+  color: $cl-white;
+  text-align: center;
+
+  &__child {
+    width: 100%;
+    margin: 1px;
+    padding: 10px 0;
+    background-color: $cl-green;
+  }
+}

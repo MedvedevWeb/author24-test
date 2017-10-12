@@ -1,0 +1,8 @@
+.value {
+  html[lang="ru"] & {
+    &:after { content: ' Р'; }
+  }
+  html[lang="en"] & {
+    &:before { content: '$ '; }
+  }
+}
